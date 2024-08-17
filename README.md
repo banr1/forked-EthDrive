@@ -1,3 +1,5 @@
+This repository is a fork of the original repository. The original repository can be found [here](https://github.com/Heterod0x/EthDrive).
+
 # EthDrive
 
 Here’s a wallet like you’ve never seen before—Google Drive for your assets. Organize and manage your assets with a directory structure, trade them, and even connect your directories to dApps.
